@@ -1,12 +1,12 @@
-  # 👩🏻‍💻 Camile Cristina
+  # 🪻 Camile Cristina
 
-**`Frontend Developer • UI/UX • Technical Documentation`**
+![](https://img.shields.io/badge/Frontend%20Developer%20in%20Progress%20•%20UI%2FUX%20•%20Technical%20Documentation-B794F4?style=for-the-badge)
 
-Me chamo Camile Cristina Rosa, tenho 22 anos e atualmente curso Engenharia de Software.
+Me chamo Camile Cristina Rosa Da Silva, tenho 22 anos e atualmente curso Engenharia de Software.
 
 Tenho grande interesse em desenvolvimento frontend, UI/UX e documentação técnica, buscando constantemente aprimorar minhas habilidades através de projetos práticos e estudos voltados para tecnologias web.
 
-### 🤖 Linguagens e Tecnologias
+### ✨ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -36,7 +36,7 @@ Tenho grande interesse em desenvolvimento frontend, UI/UX e documentação técn
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🎨 Estatísticas
 
 <p>
   <img 
