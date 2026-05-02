@@ -2,9 +2,9 @@
 
 **`Frontend Developer • UI/UX • Technical Documentation`**
 
-Me chamo Camile Cristina Rosa, tenho 22 anos e sou natural do Paraná. Atualmente curso Engenharia de Software pela positivo.
+Me chamo Camile Cristina Rosa, tenho 22 anos e atualmente curso Engenharia de Software.
+
 Tenho grande interesse em desenvolvimento frontend, UI/UX e documentação técnica, buscando constantemente aprimorar minhas habilidades através de projetos práticos e estudos voltados para tecnologias web.
-Sou apaixonada por tecnologia, aprendizado contínuo e pela criação de experiências digitais organizadas, acessíveis e funcionais.
 
 ### 🤖 Linguagens e Tecnologias
 
