@@ -1,4 +1,4 @@
-  # 🪻 Camile Cristina
+  # 🪻 About Me
 
 ![](https://img.shields.io/badge/Frontend%20Developer%20in%20Progress%20•%20UI%2FUX%20•%20Technical%20Documentation-B794F4?style=for-the-badge)
 
